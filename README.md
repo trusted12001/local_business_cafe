@@ -79,7 +79,7 @@ This project uses Git & GitHub for version control. Key practices include:
 
 ## Screenshots
 
-![Home Page](https://trusted12001.github.io/local_business_cafe/assets/images/hom-page.jpg)
+![Home Page](https://trusted12001.github.io/local_business_cafe/assets/images/home-page.jpg)
 Home Page: Introduces the café and highlights unique selling points.
 
 ![Products Page](https://trusted12001.github.io/local_business_cafe/assets/images/products-page.jpg)
